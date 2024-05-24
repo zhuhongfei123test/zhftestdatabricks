@@ -5,4 +5,4 @@
 # MAGIC --插入数据
 # MAGIC insert into table test valuse(1,'zhftest')
 # MAGIC
-# MAGIC --test行
+# MAGIC
