@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--admin123-testgen2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/4ce3c57b-ceee-41b2-8588-2ababd381b7a/resourceGroups/testhdp/providers/Microsoft.Storage/storageAccounts/testgen2",
+		"groupId": "dfs",
+		"fqdns": [
+			"testgen2.dfs.core.chinacloudapi.cn"
+		]
+	}
+}

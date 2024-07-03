@@ -1,0 +1,17 @@
+{
+	"name": "SQL script 1",
+	"properties": {
+		"content": {
+			"query": "ALTER DATABASE master SET RESULT_SET_CACHING ON;",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "master",
+				"poolName": "test0625"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
