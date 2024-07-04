@@ -3,13 +3,17 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Append variable1",
-				"type": "AppendVariable",
+				"name": "Set variable1",
+				"type": "SetVariable",
 				"dependsOn": [],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
 				"userProperties": [],
 				"typeProperties": {
 					"variableName": "test",
-					"value": "[\n                {\n                    \"customerInfo\": {\n                        \"ProfileType\": \"ExpertUser\",\n                        \"RoomName\": \"\",\n                        \"CustomerName\": \"diamond\",\n                        \"UserName\": \"XXXX@yahoo.com\"\n                    }\n                },\n                {\n                    \"customerInfo\": {\n                        \"ProfileType\": \"Novice\",\n                        \"RoomName\": \"\",\n                        \"CustomerName\": \"topaz\",\n                        \"UserName\": \"XXXX@outlook.com\"\n                    }\n                }\n            ]"
+					"value": "\"123\""
 				}
 			}
 		],
