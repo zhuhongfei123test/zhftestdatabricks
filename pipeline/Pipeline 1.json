@@ -9,7 +9,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"variableName": "test",
-					"value": "{'123'}"
+					"value": "[\n                {\n                    \"customerInfo\": {\n                        \"ProfileType\": \"ExpertUser\",\n                        \"RoomName\": \"\",\n                        \"CustomerName\": \"diamond\",\n                        \"UserName\": \"XXXX@yahoo.com\"\n                    }\n                },\n                {\n                    \"customerInfo\": {\n                        \"ProfileType\": \"Novice\",\n                        \"RoomName\": \"\",\n                        \"CustomerName\": \"topaz\",\n                        \"UserName\": \"XXXX@outlook.com\"\n                    }\n                }\n            ]"
 				}
 			}
 		],
