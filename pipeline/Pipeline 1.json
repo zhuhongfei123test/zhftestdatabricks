@@ -1,6 +1,18 @@
 {
 	"name": "Pipeline 1",
 	"properties": {
+		"activities": [
+			{
+				"name": "Append variable1",
+				"type": "AppendVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "test",
+					"value": "[\"123\"]"
+				}
+			}
+		],
 		"annotations": []
 	}
 }
