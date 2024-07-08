@@ -2,7 +2,7 @@
 	"name": "SQL script 2",
 	"properties": {
 		"content": {
-			"query": "ALTER DATABASE master SET RESULT_SET_CACHING ON;",
+			"query": "",
 			"metadata": {
 				"language": "sql"
 			},
