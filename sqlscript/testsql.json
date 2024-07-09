@@ -2,7 +2,7 @@
 	"name": "testsql",
 	"properties": {
 		"content": {
-			"query": "",
+			"query": "mysql test",
 			"metadata": {
 				"language": "sql"
 			},
