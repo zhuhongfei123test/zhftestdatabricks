@@ -8,7 +8,13 @@
 		"admin123-WorkspaceDefaultSqlServer_connectionString": {
 			"value": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=tcp:admin123.sql.azuresynapse.azure.cn,1433;Initial Catalog=@{linkedService().DBName}"
 		},
+		"zhftestsyn0709-WorkspaceDefaultSqlServer_connectionString": {
+			"value": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=tcp:zhftestsyn0709.sql.azuresynapse.azure.cn,1433;Initial Catalog=@{linkedService().DBName}"
+		},
 		"admin123-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://testgen2.dfs.core.chinacloudapi.cn"
+		},
+		"zhftestsyn0709-WorkspaceDefaultStorage_properties_typeProperties_url": {
 			"value": "https://testgen2.dfs.core.chinacloudapi.cn"
 		}
 	}
