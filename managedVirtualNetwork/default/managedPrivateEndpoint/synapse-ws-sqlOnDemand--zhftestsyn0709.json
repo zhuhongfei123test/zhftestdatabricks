@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--zhftestsyn0709",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/05f5513c-9195-4544-91ec-c53e61981d4e/resourceGroups/zhftestsynapse/providers/Microsoft.Synapse/workspaces/zhftestsyn0709",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"zhftestsyn0709-ondemand.c86f9730-4c1d-4a12-a188-7a241932c6be.sql.azuresynapse.azure.cn"
+		]
+	}
+}
